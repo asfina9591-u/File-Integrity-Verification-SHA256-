@@ -62,7 +62,3 @@ The project report documents the problem statement, methodology, tools and techn
 - Maintain verification history and timestamps.
 - Improve reference hash protection and security.
 
-## Author
-**Asfina Magi**
-
-B.Tech CSE – AI & ML
